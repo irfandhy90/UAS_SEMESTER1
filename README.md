@@ -3,7 +3,7 @@
 - # ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg) **PROGRAM DATA MAHASISWA PYTHON**
 
 ![nama](https://img.shields.io/badge/nama-Mochammad%20Irfandhy%20-greend.svg)
-![nim](https://img.shields.io/badge/nim-312110010-orange.svg)
+![nim](https://img.shields.io/badge/nim-312110126-orange.svg)
 ![kelas](https://img.shields.io/badge/kelas-TI.21.C5-blue.svg)
 
 **SOAL UJIAN**
