@@ -1,28 +1,12 @@
 # UAS_Semester1
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <table border="1">
-        <tr>
-            <th> Nama</th>
-            <th>NIM</th>
-            <th>Kelas</th>
-        </tr>
-        <tr>
-            <td>Mochammad Irfandhy</td>
-            <td>312110126</td>
-            <td>TI.21.C5</td>
-        </tr>
-    </table>
-</body>
-</html>
+- # ![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg) **PROGRAM DATA MAHASISWA PYTHON**
 
-## SOAL UJIAN
+![nama](https://img.shields.io/badge/nama-Mochammad%20Irfandhy%20-greend.svg)
+![nim](https://img.shields.io/badge/nim-312110010-orange.svg)
+![kelas](https://img.shields.io/badge/kelas-TI.21.C5-blue.svg)
+
+**SOAL UJIAN**
 
 ![100](ss/soal-uas.png)
 
